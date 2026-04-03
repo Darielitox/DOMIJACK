@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\bin\Debug\net10.0\Proyecto_viernes.exe
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\bin\Debug\net10.0\Proyecto_viernes.deps.json
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\bin\Debug\net10.0\Proyecto_viernes.runtimeconfig.json
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\bin\Debug\net10.0\Proyecto_viernes.dll
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\bin\Debug\net10.0\Proyecto_viernes.pdb
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\obj\Debug\net10.0\Proyecto_viernes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\obj\Debug\net10.0\Proyecto_viernes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\obj\Debug\net10.0\Proyecto_viernes.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\obj\Debug\net10.0\Proyecto_viernes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\obj\Debug\net10.0\Proyecto_viernes.dll
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\obj\Debug\net10.0\refint\Proyecto_viernes.dll
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\obj\Debug\net10.0\Proyecto_viernes.pdb
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\obj\Debug\net10.0\Proyecto_viernes.genruntimeconfig.cache
+C:\Users\User\Desktop\Proyecto_viernes\Proyecto_viernes\obj\Debug\net10.0\ref\Proyecto_viernes.dll
